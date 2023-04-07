@@ -12,7 +12,7 @@ struct TestApp1App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-            //print("Hello")123123
+            //BUG FIX IN BRANCH bugFix1
         }
     }
 }
