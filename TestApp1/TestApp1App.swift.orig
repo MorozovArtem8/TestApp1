@@ -12,7 +12,11 @@ struct TestApp1App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+<<<<<<< HEAD
+            //Main branch
+=======
             //BUG FIX IN BRANCH bugFix1
+>>>>>>> bugFix1
         }
     }
 }
